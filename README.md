@@ -12,11 +12,13 @@ using the anchor point and each selected end point.
 ![ScriptImage](https://raw.github.com/pointwise/MultiCopyTranslate/master/ScriptImage.png)
 
 ### Python Version Usage
-The Python version of this script requires `Glyph Client for Python`_ and Pointwise_ V18.2 or higher.
-.. _`Glyph Client for Python`: https://github.com/pointwise/GlyphClientPython
-.. _Pointwise: https://www.pointwise.com
 
-The command `python -m pip install pointwise-glyph-client` can be used to install the `Glyph Client for Python`_ package.
+The Python version of this script requires [Glyph Client for Python][GlyphClient] and [Pointwise][PW] V18.2 or higher.
+
+The command `python -m pip install pointwise-glyph-client` can be used to install the [Glyph Client for Python][GlyphClient] package.
+
+[GlyphClient]: https://github.com/pointwise/GlyphClientPython
+[PW]: https://www.pointwise.com
 
 
 ## Disclaimer
